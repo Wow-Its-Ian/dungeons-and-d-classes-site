@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar';
-import { Switch, Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import About from './components/About';
 import Home from './components/Home';
 import Episodes from './components/Episodes';
