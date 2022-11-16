@@ -8,6 +8,10 @@ html,body {
   height: 100%;
   width: 100%;
   background-color: #ff5757;
+  background-image: url('./images/logo.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 code {
