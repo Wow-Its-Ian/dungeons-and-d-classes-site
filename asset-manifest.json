@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dungeons-and-d-classes-site/static/css/main.e5aa9a13.css",
-    "main.js": "/dungeons-and-d-classes-site/static/js/main.ffd56830.js",
+    "main.js": "/dungeons-and-d-classes-site/static/js/main.83d3c5a1.js",
     "static/js/787.d0605791.chunk.js": "/dungeons-and-d-classes-site/static/js/787.d0605791.chunk.js",
     "static/media/mock-portrait.jpg": "/dungeons-and-d-classes-site/static/media/mock-portrait.0235560d4e5ee25eb671.jpg",
     "static/media/logo.png": "/dungeons-and-d-classes-site/static/media/logo.989785a8d16a36fc2d05.png",
     "index.html": "/dungeons-and-d-classes-site/index.html",
     "main.e5aa9a13.css.map": "/dungeons-and-d-classes-site/static/css/main.e5aa9a13.css.map",
-    "main.ffd56830.js.map": "/dungeons-and-d-classes-site/static/js/main.ffd56830.js.map",
+    "main.83d3c5a1.js.map": "/dungeons-and-d-classes-site/static/js/main.83d3c5a1.js.map",
     "787.d0605791.chunk.js.map": "/dungeons-and-d-classes-site/static/js/787.d0605791.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5aa9a13.css",
-    "static/js/main.ffd56830.js"
+    "static/js/main.83d3c5a1.js"
   ]
 }
