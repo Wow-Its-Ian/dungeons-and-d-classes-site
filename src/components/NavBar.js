@@ -10,6 +10,7 @@ function NavBar() {
 		<NavOption onClick={() => {setSelectedNav('/episodes')}} text='Episodes' selected={selectedNav === '/episodes'} setSelectedNav={setSelectedNav} link='episodes' />
 		<NavOption text='Twitch' selected={false} link='https://www.twitch.tv/wow_its_ian' externalLink />
 		<NavOption text='Patreon' selected={false} link='https://patreon.com/dungeonsanddclasses' externalLink />
+		<NavOption onClick={() => {setSelectedNav('/donate')}} text='Donate' selected={selectedNav === '/donate'} setSelectedNav={setSelectedNav} link='donate' />
 	</nav>
   )
 }
